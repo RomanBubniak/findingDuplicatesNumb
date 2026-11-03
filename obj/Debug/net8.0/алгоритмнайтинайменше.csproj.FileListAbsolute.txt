@@ -12,3 +12,4 @@
 /home/roman/programação/алгоритмнайтинайменше/obj/Debug/net8.0/алгоритмнайтинайменше.pdb
 /home/roman/programação/алгоритмнайтинайменше/obj/Debug/net8.0/алгоритмнайтинайменше.genruntimeconfig.cache
 /home/roman/programação/алгоритмнайтинайменше/obj/Debug/net8.0/ref/алгоритмнайтинайменше.dll
+/home/roman/programação/алгоритмнайтинайменше/obj/Debug/net8.0/алгоритмнайтинайменше.sourcelink.json

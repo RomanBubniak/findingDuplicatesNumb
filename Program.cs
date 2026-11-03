@@ -1,9 +1,12 @@
-﻿int[] nums = { 15, 8, 3, 42, 2, 19 };
-int temp = nums[0];
-for (int i = 0; i < nums.Length; i++)
+﻿int[] nums = { 4, 2, 7, 1, 8, 2, 9, 3 };
+int temp = 0;
+for(int i = 0; i < nums.Length; i++)
 {
-    if (temp > nums[i])
+    for (int j = i +1; j < nums.Length; j++)
     {
-        temp = nums[i];
+        if (nums[i] == nums[j])
+        {
+            Console.WriteLine($"the duplicate has been found: {nums[i]}, {nums[j]}");
+        }
     }
-} Console.WriteLine(temp);
+}

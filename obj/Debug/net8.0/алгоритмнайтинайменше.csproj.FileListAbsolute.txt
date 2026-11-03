@@ -1,0 +1,14 @@
+/home/roman/programação/алгоритмнайтинайменше/bin/Debug/net8.0/алгоритмнайтинайменше
+/home/roman/programação/алгоритмнайтинайменше/bin/Debug/net8.0/алгоритмнайтинайменше.deps.json
+/home/roman/programação/алгоритмнайтинайменше/bin/Debug/net8.0/алгоритмнайтинайменше.runtimeconfig.json
+/home/roman/programação/алгоритмнайтинайменше/bin/Debug/net8.0/алгоритмнайтинайменше.dll
+/home/roman/programação/алгоритмнайтинайменше/bin/Debug/net8.0/алгоритмнайтинайменше.pdb
+/home/roman/programação/алгоритмнайтинайменше/obj/Debug/net8.0/алгоритмнайтинайменше.GeneratedMSBuildEditorConfig.editorconfig
+/home/roman/programação/алгоритмнайтинайменше/obj/Debug/net8.0/алгоритмнайтинайменше.AssemblyInfoInputs.cache
+/home/roman/programação/алгоритмнайтинайменше/obj/Debug/net8.0/алгоритмнайтинайменше.AssemblyInfo.cs
+/home/roman/programação/алгоритмнайтинайменше/obj/Debug/net8.0/алгоритмнайтинайменше.csproj.CoreCompileInputs.cache
+/home/roman/programação/алгоритмнайтинайменше/obj/Debug/net8.0/алгоритмнайтинайменше.dll
+/home/roman/programação/алгоритмнайтинайменше/obj/Debug/net8.0/refint/алгоритмнайтинайменше.dll
+/home/roman/programação/алгоритмнайтинайменше/obj/Debug/net8.0/алгоритмнайтинайменше.pdb
+/home/roman/programação/алгоритмнайтинайменше/obj/Debug/net8.0/алгоритмнайтинайменше.genruntimeconfig.cache
+/home/roman/programação/алгоритмнайтинайменше/obj/Debug/net8.0/ref/алгоритмнайтинайменше.dll
